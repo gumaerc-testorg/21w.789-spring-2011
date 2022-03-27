@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 83fa5db9-380f-2071-9cdb-e6e0be610038
 resourcetype: Document
 title: MIT21W_789S11_class2.pdf
 uid: 64e12a7c-3162-c2e1-dee3-25db0846ed23

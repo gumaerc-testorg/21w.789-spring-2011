@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 83fa5db9-380f-2071-9cdb-e6e0be610038
 resourcetype: Document
 title: Mobile Applications Overview
 uid: 08fe8fca-fe2f-3fa2-fa31-9143d6923388

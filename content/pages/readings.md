@@ -1,110 +1,56 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: This section contains a calendar and a list of the assigned and suggested
+  readings for the course.
+draft: false
 title: Readings
 uid: 2908ab1c-d538-b627-bb59-2c346ba4ea6e
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 None
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Beyer, H., and K. Holtzblatt. _Contextual Design: A Customer-Centered Approach to Systems Designs_. San Francisco: Morgan Kauffman Publishers, 1997.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Kangas, E., and T. Kinnunen. "[Applying User-Centered Design to Mobile Application Development](http://dx.doi.org/10.1145/1070838.1070866)." _Commun ACM_ 48, no. 7 (2005): 55-59.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Rettig, M. "[Prototyping for Tiny Fingers](http://dx.doi.org/10.1145/175276.175288)." _Commun ACM_ 37, no. 4 (1994): 21-27.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 None
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ahern, S., et al. "ZoneTag: Designing Context-Aware Mobile Media Capture to Increase Participation." In _Proceedings of the Pervasive Image Capture and Sharing: New Social Practices and Implications for Technology Workshop (PICS 2006) at the Eighth International Conference on Ubiquitous Computing (UbiComp 2006)_.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 None
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Consolvo, S., et al. "[Activity Sensing in the Wild: A Field Trial of Ubifit Garden](http://dx.doi.org/10.1145/1357054.1357335)." In _Proceeding of the Twenty-Sixth Annual SIGCHI Conference on Human Factors in Computing Systems_ (2008): 1797-1806.
 
-Bogost, I. "Persuasive Games on Mobile Devices." In _Mobile Persuasion: 20 Perspectives on the Future of Behavior Change_. Edited by B. J. Fogg and Dean Eckles. Stanford Captology Media, 2007. ISBN: 9780979502521. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bogost.com/downloads/I. Bogost Mobile Persuasion.pdf))
+Bogost, I. "Persuasive Games on Mobile Devices." In _Mobile Persuasion: 20 Perspectives on the Future of Behavior Change_. Edited by B. J. Fogg and Dean Eckles. Stanford Captology Media, 2007. ISBN: 9780979502521. (\[PDF\]([http://www.bogost.com/downloads/I](http://www.bogost.com/downloads/I). Bogost Mobile Persuasion.pdf))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 There are no reading assignments for Week #9-12.
 
-Recommended Readings
---------------------
+## Recommended Readings
 
 Papers and book excerpts are sorted by topic.
 
@@ -142,7 +88,7 @@ Isaacs, E., and A. Walendowski. _Designing from Both Sides of the Screen: How De
 
 Barkhuus, L., et al. "[Picking Pockets on the Lawn: The Development of Tactics and Strategies in a Mobile Game](http://dx.doi.org/10.1007/11551201_21)." _Lecture Notes in Computer Science_ 3660 (2005).
 
-Klopfer, E., S. Osterweil, and K. Salen. "Moving Learning Games Forward." _The Education Arcade_, Massachusetts Institute of Technology, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.2MB](https://education.mit.edu/wp-content/uploads/2018/10/MovingLearningGamesForward_EdArcade.pdf))
+Klopfer, E., S. Osterweil, and K. Salen. "Moving Learning Games Forward." _The Education Arcade_, Massachusetts Institute of Technology, 2009. ([PDF - 7.2MB](https://education.mit.edu/wp-content/uploads/2018/10/MovingLearningGamesForward_EdArcade.pdf))
 
 [Recent Publications from the MIT GAMBIT](http://gambit.mit.edu/readme/index.php).
 
@@ -202,4 +148,4 @@ Viégas, F. "[Collections: Adapting the Display of Personal Objects for Differen
 
 B. Smith, et al. "[Inquiry with Imagery: Historical Archive Retrieval With Digital Cameras](https://www.media.mit.edu/explain/papers/mm99/acm_mm99.html)." In Part 1 of _Proceedings of the Seventh ACM International Conference on Multimedia._ ACM, 1999, pp. 405-408.
 
-Van House, N., and M. Davis. "The Social Life of Cameraphone Images." In _Proceedings of the Pervasive Image Capture and Sharing: New Social Practices and Implications for Technology Workshop at the Seventh International Conference on Ubiquitous Computing (UbiComp 2005)_ in Tokyo, Japan, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://marcdavis.me/wp-content/uploads/Publications/2005_ProceedingsUbiComp2005_SocialLifeCameraphoneImages.pdf))u
+Van House, N., and M. Davis. "The Social Life of Cameraphone Images." In _Proceedings of the Pervasive Image Capture and Sharing: New Social Practices and Implications for Technology Workshop at the Seventh International Conference on Ubiquitous Computing (UbiComp 2005)_ in Tokyo, Japan, 2005. ([PDF](http://marcdavis.me/wp-content/uploads/Publications/2005_ProceedingsUbiComp2005_SocialLifeCameraphoneImages.pdf))

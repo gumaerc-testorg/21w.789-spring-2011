@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a course overview, grading criteria, and a calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +15,7 @@ Lectures: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-[_1.00 Introduction to Computers and Engineering Problem Solving_](/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/), [_6.005 Elements of Software Construction_](/courses/6-005-elements-of-software-construction-fall-2008), or permission of instructor.
+[_1.00 Introduction to Computers and Engineering Problem Solving_](/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012), [_6.005 Elements of Software Construction_](/courses/6-005-elements-of-software-construction-fall-2008), or permission of instructor.
 
 Course Description
 ------------------

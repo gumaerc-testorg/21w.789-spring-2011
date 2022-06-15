@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a table with lecture topics, descriptions, and
+  lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ Mobile Applications Overview / Generative Research Methods
 Overview of research areas in mobile computing. Discussion of the domains and structures of mobile applications. Discussion of how mobile technology is changing communication patterns. Overview of methods used to create new concepts based in field observations.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21w_789s11_class1))
+({{% resource_link 08fe8fca-fe2f-3fa2-fa31-9143d6923388 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Qualitative Data Analysis / Android Fundamentals
 Performing analysis of user data to generate concept ideas. Fundamentals of programming on Android devices. Differences from desktop Java. Small overview of iPhone programming. Outline for proposals.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit21w_789s11_class2))  
+({{% resource_link 64e12a7c-3162-c2e1-dee3-25db0846ed23 "PDF - 1.1MB" %}})  
 
 {{< tdclose >}}
 
@@ -115,7 +117,7 @@ Mobile Location / Networking
 Novel applications of location in social, media tagging, and public safety applications. Mobile location technology including GPS/CellID/Wifi localization. Networking capabilities of mobile devices. Best practices in writing mobile networking code.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21w_789s11_class6))
+({{% resource_link ac08cd0f-9fcd-1171-527e-810a3c4d7d83 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ Mobile Persuasion / Urban Computing
 Mobile applications that encourage positive behavior changes (exercise, diet, social, etc.). Systems that combine physical interaction in the world with mobile technology.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mit21w_789s11_class8))
+({{% resource_link a9af5850-207f-bb92-e82d-e784833e8049 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +162,7 @@ Large Scale Research / Distribution / Instrumentation
 Launching research projects in app stores. Business models for mobile services. Instrumenting applications to collect analytics data.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21w_789s11_class9))
+({{% resource_link c2d66100-7dd4-d78f-ba76-ff7f870156b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

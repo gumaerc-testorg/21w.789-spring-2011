@@ -6,6 +6,7 @@ file: /courses/21w-789-communicating-with-mobile-technology-spring-2011/64e12a7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21W_789S11_class2.pdf
 uid: 64e12a7c-3162-c2e1-dee3-25db0846ed23
 ---
 This resource contains information related to affinity analysis android/iphone basics.
-

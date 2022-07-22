@@ -6,6 +6,7 @@ file: /courses/21w-789-communicating-with-mobile-technology-spring-2011/a9af5850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21W_789S11_class8.pdf
 uid: a9af5850-207f-bb92-e82d-e784833e8049
 ---
 This resource contains information related to mobile persuasion and urban computing.
-

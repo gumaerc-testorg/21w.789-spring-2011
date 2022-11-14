@@ -48,7 +48,9 @@
   },
   "course_title": "Communicating with Mobile Technology",
   "course_description": "Students work in small collaborative design teams to propose, build, and document a semester-long project focused on mobile applications for cell phones. Additional assignments include creating several small mobile applications such as context-aware mobile media capture and games. Students document their work through a series of written and oral proposals, progress reports, and final reports. This course covers the basics of J2ME and explores mobile imaging and media creation, GPS location, user-centered design, usability testing, and prototyping. Java experience is recommended.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.789",
   "course_image_thumbnail": {
@@ -60,6 +62,6 @@
     "Presentation Assignments",
     "Written Assignments"
   ],
-  "site_uid": "4a1fe352-ed36-4b17-9e88-ba4882bddf26",
+  "site_uid": "50a66f8a-39c7-42b4-b5bc-49b7501a2d6a",
   "title": "Course Metadata"
 }

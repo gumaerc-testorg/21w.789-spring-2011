@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section contains a calendar and a list of the assigned and suggested
-  readings for the course.
 draft: false
 title: Readings
 uid: 2908ab1c-d538-b627-bb59-2c346ba4ea6e
